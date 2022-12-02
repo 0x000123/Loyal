@@ -52,7 +52,7 @@
 
 ```
 
-wget -O LYL.sh https://raw.githubusercontent.com/bent0000/main/Loyal/LYL && chmod +x LYL.sh && ./LYL.sh
+wget -O LYL.sh https://raw.githubusercontent.com/0x000123/main/Loyal/LYL && chmod +x LYL.sh && ./LYL.sh
 
 ```
 
